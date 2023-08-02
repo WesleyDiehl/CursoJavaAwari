@@ -9,4 +9,3 @@ rarold = 13*20;
 cleyton = rarold**2;
 console.log(cleyton, rarold);
 
-//teste
