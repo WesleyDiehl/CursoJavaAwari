@@ -1,6 +1,6 @@
 let nome = 'awari';
-alert(nome);
+console.log(nome);
 nome = 10;
-alert(Nome);
+console.log(nome);
 
 //teste
