@@ -4,8 +4,8 @@ const server = express();
 
 server.get('/awari', (req, res) => {
     console.log(req.query);
-    return res.send('bom diaaaa');
+    return res.send('Bom dia');
 });
 
-server.listen(3332);
+server.listen(3333);
 
