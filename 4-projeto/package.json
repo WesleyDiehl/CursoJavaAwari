@@ -2,7 +2,8 @@
   "name": "4-projeto",
   "version": "0.0.1",
   "description": "Aula 4",
-  "main": "app.js",
+  "main": "./SRC/app.js",
+  "type": "module",
   
   "scripts": {
     "dev": "nodemon .",
